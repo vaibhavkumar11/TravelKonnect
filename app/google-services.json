@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "9307723368",
+    "firebase_url": "https://travelkonnect-ec17b.firebaseio.com",
+    "project_id": "travelkonnect-ec17b",
+    "storage_bucket": "travelkonnect-ec17b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9307723368:android:68279856b0b6274a",
+        "android_client_info": {
+          "package_name": "com.example.hp.travelkonnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9307723368-vlh0oh2jagq0j6fng56vs9rr96o4t9qg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.travelkonnect",
+            "certificate_hash": "fe2e3f9943a563efe4ac78c984cdd7bc13fe9bee"
+          }
+        },
+        {
+          "client_id": "9307723368-nl9rs75cbo9avrf2ihka61jvlasgdqm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaDY-u_6m07d-Jjqb4YgzW-RpA563z0Yo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9307723368-nl9rs75cbo9avrf2ihka61jvlasgdqm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

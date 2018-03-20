@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:alpha="0.5"
+    android:background="#000"
+    android:padding="10px">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="UDAIPUR"
+        android:textColor="#fff"
+        android:textStyle="bold"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Often referred to as the 'Venice of the East', the city of lakes Udaipur is located around azure water lakes and is hemmed in by lush green hills of Aravallis.The famous Lake Palace, located in the middle of Lake Pichola is one of the most beautiful sights of Udaipur.
+"
+        android:textColor="#fff"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ATTRACTIONS:\nUDAIPUR CITY\n PALACEJAG MANDIR\nMONSOON PALACE\nAHAR MUSEUM\nJAGDISH TEMPLE\nLAKE PICHOLA\n
+"
+        android:gravity="center"
+        android:textColor="#fff"
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Close"
+        android:id="@+id/closePopupBtn"/>
+
+</LinearLayout>

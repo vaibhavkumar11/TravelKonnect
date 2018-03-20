@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:alpha="0.5"
+    android:background="#000"
+    android:padding="10px">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MITHDI"
+        android:textColor="#fff"
+        android:textStyle="bold"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="According to Census 2011 information the location code or village code of Mithdi Kesarisingh village is 070191. Mithdi Kesarisingh village is located in Rajgarh Tehsil of Churu district in Rajasthan, India. It is situated 13km away from sub-district headquarter Rajgarh and 60km away from district headquarter Churu. As per 2009 stats, Kalana is the gram panchayat of Mithdi Kesarisingh village.The total geographical area of village is 644.22 hectares. Mithdi Kesarisingh has a total population of 953 peoples. There are about 191 houses in Mithdi Kesarisingh village. Rajgarh is nearest town to Mithdi Kesarisingh which is approximately 13km away."
+        android:textColor="#fff"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Close"
+        android:id="@+id/closePopupBtn"/>
+
+</LinearLayout>

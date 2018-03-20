@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:alpha="0.5"
+    android:background="#000"
+    android:padding="10px">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MOUNT ABU"
+        android:textColor="#fff"
+        android:textStyle="bold"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Mount Abu is a hill station in western India’s Rajasthan state, near the Gujarat border. Set on a high rocky plateau in the Aravalli Range and surrounded by forest, it offers a relatively cool climate and views over the arid plains below."
+        android:textColor="#fff"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ATTRACTIONS:\nCITY MARKET\n PALACEJAG MANDIR\nMONSOON PALACE\nAHAR MUSEUM\nJAGDISH TEMPLE\nLAKE PICHOLA\n
+"
+        android:gravity="center"
+        android:textColor="#fff"
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Close"
+        android:id="@+id/closePopupBtn"/>
+
+</LinearLayout>
